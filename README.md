@@ -17,11 +17,11 @@ A simple and interactive word and character counter built using **HTML**, **CSS*
 ## Installation & Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/vishxlshxrma/Word_Counter.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd repository-name
+   cd Word\ Counter\
    ```
 3. Open `index.html` in a web browser.
 
